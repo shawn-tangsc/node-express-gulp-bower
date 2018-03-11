@@ -1,0 +1,20 @@
+{
+  "name": "gulp+express+bower",
+  "description": "",
+  "main": "",
+  "authors": [
+    "tangsicheng <tangscsh@icloud.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/lib"
+  ],
+  "dependencies": {
+    "jquery": "2.1.4",
+    "font-awesome": "4.4.0"
+  }
+}
